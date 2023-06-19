@@ -11,6 +11,5 @@ const createStudent = (req, res) => {
 
 module.exports = {
     getAllStudents,
-    getStudentByName,
     createStudent
 }
